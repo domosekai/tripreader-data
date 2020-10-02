@@ -14,6 +14,8 @@
 
 ## 备注 Remark
 
+1号线不写1E文件，暂无法识别。
+
 ## Changelog
 
 Date | Change | Author

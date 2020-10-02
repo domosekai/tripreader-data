@@ -14,6 +14,8 @@
 
 ## 备注 Remark
 
+13号线数据暂缺。
+
 ## Changelog
 
 Date | Change | Author

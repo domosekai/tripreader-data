@@ -14,6 +14,8 @@
 
 ## 备注 Remark
 
+BRT数据只收集了一小部分。
+
 ## Changelog
 
 Date | Change | Author
