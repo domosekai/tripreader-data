@@ -18,4 +18,4 @@
 
 Date | Change | Author
 -----|--------|-------
-2020-1 | Initial | domosekai
+2020.1 | Initial | domosekai

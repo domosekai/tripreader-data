@@ -18,4 +18,5 @@
 
 Date | Change | Author
 -----|--------|-------
-2020-2 | Initial | icarian
+2020.2 | 公交 | 虹羽、RisingTank
+2020.2 | 地铁 | icarian

@@ -18,4 +18,6 @@
 
 Date | Change | Author
 -----|--------|-------
-2020-1 | Initial | domosekai
+2020.6 | 夜专 | 虹羽
+2020.3 | 部分汉字线路 | 晴转の多云、虹羽、RisingTank
+2020.1 | Initial | domosekai

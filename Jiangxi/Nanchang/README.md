@@ -1,4 +1,4 @@
-# 天津市 Tianjin
+# 南昌市 Nanchang
 
 ## 数据 Data
 
@@ -10,7 +10,7 @@
 
 ### 公交
 
-识别方式：暂缺
+识别方式：1E文件，线路和站点前4位，10进制
 
 ## 备注 Remark
 
@@ -18,4 +18,4 @@
 
 Date | Change | Author
 -----|--------|-------
-2020.1 | Initial | domosekai
+2020.3 | Initial | 机智轩の微視角

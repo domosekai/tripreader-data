@@ -18,4 +18,4 @@
 
 Date | Change | Author
 -----|--------|-------
-2020-2 | Initial | Rayista
+2020.2 | Initial | Rayista
