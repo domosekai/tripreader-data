@@ -1,106 +1,295 @@
-City,Code,Type,Line,Station
-3010,413100013489,自行车,江北,柳洲东路地铁站2号口
-3010,413100013566,自行车,江北,天润城八街区
-3010,413100013567,自行车,江北,百润西路苏果店
-3010,413100013571,自行车,江北,柳洲东路好又多
-3010,413100013586,自行车,江北,新一城
-3010,413100023652,自行车,主城,雨花门地铁2号口
-3010,413100023722,自行车,主城,白鹭东苑东
-3010,413100025768,自行车,主城,徐庄先声药业
-3010,413100025771,自行车,主城,中华门城堡东
-3010,413100025773,自行车,主城,张府园地铁3号口
-3010,413100025966,自行车,主城,仁恒翠竹园南
-3010,413100028102,自行车,主城,广播电视学院
-3010,413100028107,自行车,主城,卡子门麦德龙
-3010,413100028142,自行车,主城,南京市人防办
-3010,413100028194,自行车,江北,鼎业二期
-3010,413100028384,自行车,主城,安德门地铁站
-3010,413100028409,自行车,主城,欧尚超市汉中门店东站
-3010,413100028415,自行车,主城,莫愁湖地铁2号出口东
-3010,413100028436,自行车,主城,欧尚超市汉中门店北站
-3010,413100028466,自行车,主城,康盛花园南
-3010,413100029034,自行车,江北,金盛田广场
-3010,413100029194,自行车,主城,仙境路羊山湖公园
-3010,413100029209,自行车,主城,羊山公园站
-3010,413100029324,自行车,江北,地铁凤凰公园站4号口
-3010,413100030012,自行车,主城,栖园
-3010,413100030080,自行车,主城,香悦澜山南门
-3010,413100030083,自行车,主城,经天路地铁
-3010,413100045454,自行车,江宁,明发广场
-3010,413100045525,自行车,江宁,双龙大道地铁站
-3010,413100045531,自行车,江宁,双龙大道地铁站2
-3010,413100046357,自行车,江宁,河海大学
-3010,413100200239,自行车,溧水,石湫政府
-3010,413100202140,自行车,溧水,石湫轻轨站
-3010,413100400354,自行车,主城,张府园地铁2号口
-3010,413100400375,自行车,主城,米兰假日大酒店
-3010,413100400390,自行车,主城,金盛家居
-3010,413100400424,自行车,主城,小市地铁2号口
-3010,413100400521,自行车,江北,凤凰山公园地铁3号口站
-3010,413100400537,自行车,江北,文德路2号口
-3010,413100400538,自行车,江北,文德路1号口
-3010,413100400542,自行车,江北,龙华路3号口
-3010,413100400543,自行车,江北,柳洲东路总站
-3010,413100400544,自行车,江北,柳洲东路地铁站1号口
-3010,413100400608,自行车,江北,天润城十一街区西
-3010,413100400610,自行车,江北,天润城地铁站2号口
-3010,413100400611,自行车,江北,天润养老院
-3010,413100400613,自行车,江北,天润城二街区
-3010,413100400615,自行车,江北,天润城地铁站3号口
-3010,413100400633,自行车,江北,天润城一街区
-3010,413100400635,自行车,江北,柳洲东路地铁站3号口
-3010,413100409832,自行车,主城,中华门地铁站南
-3010,413100410332,自行车,主城,保利紫荆公馆北门
-3010,413100410371,自行车,江北,明发城市广场
-3010,413100410374,自行车,江北,天润城五街区
-3010,413100410435,自行车,江北,天润城十二街区
-3010,413100410442,自行车,江北,天润城九街区南
-3010,413100411586,自行车,主城,下马坊地铁口
-3010,413100411689,自行车,主城,卡子门地铁站
-3010,413100411693,自行车,主城,雨花烈士陵园北门
-3010,413100411737,自行车,主城,雨花烈士陵园南门
-3010,413100411742,自行车,主城,雨花区政府北门
-3010,413100411746,自行车,主城,明发广场东
-3010,413100411821,自行车,主城,莫愁花园南门
-3010,413100411834,自行车,主城,紫荆广场
-3010,413100411844,自行车,主城,南京科技馆北
-3010,413100411995,自行车,主城,大明路地铁1号口
-3010,413100412010,自行车,主城,市第一医院西
-3010,413100412011,自行车,主城,三山街地铁4号口
-3010,413100412020,自行车,主城,江南大酒店
-3010,413100415105,自行车,江宁,南站南广场
-3010,413100415171,自行车,江宁,麦德龙
-3010,413100425584,自行车,江宁,江宁高铁站
-3010,413100427018,自行车,江宁,机场S1佛城路1
-3010,413100430551,自行车,江宁,同夏路东山总站
-3010,413100609843,自行车,主城,佳日雅苑西
-3010,413100610198,自行车,主城,栖园东门
-3010,413100610220,自行车,主城,元通4号出口
-3010,413100610252,自行车,主城,挹江门东
-3010,413100610274,自行车,主城,摄山路
-3010,413100610325,自行车,主城,阅江广场
-3010,413100610376,自行车,主城,燕子矶公园
-3010,413100610425,自行车,主城,南京铁路办事处
-3010,413100610460,自行车,主城,鼓楼地铁1号口
-3010,413100610494,自行车,主城,建宁路麦当劳
-3010,413100610518,自行车,主城,河图文化广场
-3010,413100610537,自行车,主城,马群地铁1号口
-3010,413100610755,自行车,主城,上福花园军师巷站
-3010,413100610777,自行车,主城,市第一医院北门
-3010,413100610815,自行车,主城,三山街地铁2号口
-3010,413100610824,自行车,主城,大明路地铁4号口
-3010,413100612575,自行车,主城,梦都大街南京银行
-3010,413100612614,自行车,主城,江心洲地铁站1号口
-3010,413100613343,自行车,主城,宜家家居广场东
-3010,413100613416,自行车,主城,武定门地铁3号口
-3010,413100613451,自行车,主城,地铁羊山公园
-3010,413100613465,自行车,主城,仙鹤门地铁站
-3010,413100613470,自行车,主城,保利罗来
-3010,413100613481,自行车,主城,地铁南大仙林站
-3010,413100613965,自行车,主城,鼓楼广场电信局西
-3010,413100614046,自行车,主城,宁栖路邮政储蓄
-3010,413100614099,自行车,主城,仙林湖地铁站外
-3010,413100623968,自行车,江宁,青年城北门
-3010,413100625446,自行车,江宁,机场S1佛城路2
-3010,413100688730,自行车,江北,润泰花园东
-3010,413100688733,自行车,江北,天润城十六街区
+City,Code,Type,Line,Station,Station-en
+3010,413100010030,自行车,主城,软件谷管委会,Software Valley Management Committee
+3010,413100013449,自行车,江北,文教中心,Culture and Education Center
+3010,413100013454,自行车,江北,工业大学站东,East Nanjing Tech University Metro Station
+3010,413100013455,自行车,江北,财政局,Pukou Finance Bureau
+3010,413100013456,自行车,江北,金雁湖南,South Jinyan Lake
+3010,413100013488,自行车,江北,南江新寓,Nanjiang Xinyu
+3010,413100013489,自行车,江北,柳洲东路地铁站2号口,Liuzhoudonglu Metro Exit 2
+3010,413100013497,自行车,江北,珠泉市场,Zhuquan Market
+3010,413100013503,自行车,江北,龙华路2号口,Longhualu Metro Exit 2
+3010,413100013505,自行车,江北,明发云庭西门,West Gate of Mingfa Yunting
+3010,413100013506,自行车,江北,雨山美地,Yushan Meidi
+3010,413100013507,自行车,江北,北江豪庭,Beijiang Haoting
+3010,413100013518,自行车,江北,西水湾北,North Xishuiwan
+3010,413100013525,自行车,江北,雨山路5号口,Yushanlu Metro Exit 5
+3010,413100013566,自行车,江北,天润城八街区,8th Block of Tianruncheng
+3010,413100013567,自行车,江北,百润西路苏果店,"Bairunxilu,Suguo Store"
+3010,413100013568,自行车,江北,红太阳小学,Hongtaiyang Primary School
+3010,413100013571,自行车,江北,柳洲东路好又多,"Liuzhoudonglu,Haoyouduo Mart"
+3010,413100013586,自行车,江北,新一城,Xinyicheng
+3010,413100013599,自行车,江北,新理想东,East Xinlixiang
+3010,413100013603,自行车,江北,鼎业花苑,Dingye Huayuan
+3010,413100013604,自行车,江北,凤凰花园,Fenghuang Huayuan
+3010,413100013613,自行车,江北,青奥公园南,South Youth Olympic Park
+3010,413100013614,自行车,江北,青奥公园东,East Youth Olympic Park
+3010,413100013616,自行车,江北,临江路站1号口,Linliang Metro Exit 1
+3010,413100023652,自行车,主城,雨花门地铁2号口,Yuhuamen Metro Exit 2
+3010,413100023716,自行车,主城,丁村小区南,South Dingcun Community
+3010,413100023722,自行车,主城,白鹭东苑东,East Bailu Dongyuan
+3010,413100023741,自行车,主城,明发广场西,West Mingfaguangchang
+3010,413100025768,自行车,主城,徐庄先声药业,Xuzhuang Simcare Pharmaceutical
+3010,413100025771,自行车,主城,中华门城堡东,East China Gate Castle
+3010,413100025773,自行车,主城,张府园地铁3号口,Zhangfuyuan Metro Exit 3
+3010,413100025795,自行车,主城,安德门地铁站东,East Andemen Metro Station
+3010,413100025964,自行车,主城,文竹路,Wenzhulu
+3010,413100025965,自行车,主城,花神美境南,South Huashen Meijing
+3010,413100025966,自行车,主城,仁恒翠竹园南,South Renheng Cuizhuyuan
+3010,413100026011,自行车,主城,景明佳园西,West Jingming Jiayuan
+3010,413100026013,自行车,主城,长虹路北,North Changhonglu
+3010,413100026014,自行车,主城,新城逸境西门,West Gate of Xincheng Yijing
+3010,413100026020,自行车,主城,集庆门副食品市场,Jiqingmen Non-staple Food Market
+3010,413100026023,自行车,主城,欢喜城,Huanxicheng
+3010,413100026024,自行车,主城,左邻风度西门,West Gate of Zuolin Fengdu
+3010,413100026073,自行车,主城,天隆寺地铁站,Tianlongsi Metro Station
+3010,413100026121,自行车,主城,苏豪集团北,North Suhao Group
+3010,413100026131,自行车,主城,南站玉兰路西,South Railway Station West Yulanlu
+3010,413100026141,自行车,主城,宏图上水园北,North Hongtu Shangshuiyuan
+3010,413100026152,自行车,主城,宏图上水园南,South Hongtu Shangshuiyuan
+3010,413100026157,自行车,主城,清凉山公园,Qingliangshan Park
+3010,413100026159,自行车,主城,花神大道华为东门,Huashendadao East Gate of Huawei
+3010,413100027980,自行车,主城,公教一村南,South Gongjiao Yicun
+3010,413100028056,自行车,主城,南京女子监狱,Nanjing Women's Prison
+3010,413100028085,自行车,主城,丰盛集团,Fullshare Group
+3010,413100028102,自行车,主城,广播电视学院,Broadcast and Television College
+3010,413100028104,自行车,主城,翠岛花城北,North Cuidao Huacheng
+3010,413100028107,自行车,主城,卡子门麦德龙,Kazimen METRO Store
+3010,413100028142,自行车,主城,南京市人防办,Nanjing Civil Air Defense Office
+3010,413100028194,自行车,江北,鼎业二期,Dingye Phase 2
+3010,413100028361,自行车,主城,润和软件园北,North Runhe Software Park
+3010,413100028367,自行车,主城,康盛花园西,West Kangsheng Huayuan
+3010,413100028384,自行车,主城,安德门地铁站,Andemen Metro Station
+3010,413100028400,自行车,主城,花神庙地铁站,Huashenmiao Metro Station
+3010,413100028402,自行车,主城,雨花公安分局,Yuhua Public Security Bureau
+3010,413100028409,自行车,主城,欧尚超市汉中门店东,Auchan Supermarket Hanzhongmen Store East
+3010,413100028415,自行车,主城,莫愁湖地铁2号出口东,East Mochouhu Metro Exit 2
+3010,413100028425,自行车,主城,云锦美地东门,East Gate of Yunjin Meidi
+3010,413100028432,自行车,主城,万科金色3号门,Gate No.3 of Vanke Jinse Jiayuan
+3010,413100028433,自行车,主城,万科金色家园南,South Vanke Jinse Jiayuan
+3010,413100028434,自行车,主城,凤翔新城二期东门,East Gate of Fengxiang Xincheng Phase 2
+3010,413100028436,自行车,主城,欧尚超市汉中门店北,Auchan Supermarket Hanzhongmen Store North
+3010,413100028449,自行车,主城,雨花台中学,Yuhuatai Middle School
+3010,413100028466,自行车,主城,康盛花园南,South Kangsheng Huayuan
+3010,413100028476,自行车,主城,君悦湖滨西,West Junyue Hubin
+3010,413100028505,自行车,主城,郁金香小区南,South Yujinxiang Community
+3010,413100028514,自行车,主城,南站玉兰路东,South Railway Station East Yulanlu
+3010,413100028523,自行车,主城,集庆门码头,Jiqingmen Dock
+3010,413100028540,自行车,主城,产权交易中心,Property Exchange Center
+3010,413100028548,自行车,主城,中兴三期茶花路,ZTE Phase 3 Chahualu
+3010,413100028551,自行车,主城,雨花小区南门,South Gate of Yuhua Community
+3010,413100028558,自行车,主城,软件大道华为南门,Ruanjiandadao South Gate of Huawei
+3010,413100028979,自行车,江北,中交锦兰荟,Zhongjiao Jinlanhui
+3010,413100028980,自行车,江北,新交通集团,New Transportation Group
+3010,413100028989,自行车,江北,海科新寓,Haike Xinyu
+3010,413100028990,自行车,江北,七里河大桥,Qilihe Bridge
+3010,413100028992,自行车,江北,江淼路,Jiangmiaolu
+3010,413100028997,自行车,江北,行知教育基地,Xingzhi Education Base
+3010,413100029004,自行车,江北,西水湾南,South Xishuiwan
+3010,413100029008,自行车,江北,工业大学,Nanjing Tech University
+3010,413100029014,自行车,江北,闻涛广场,Wentao Square
+3010,413100029016,自行车,江北,珠江小学,Zhujiang Primary School
+3010,413100029034,自行车,江北,金盛田广场,Jinshengtian Plaza
+3010,413100029108,自行车,主城,鼓楼法治文化广场,Gulou Nomocracy Cultural Square
+3010,413100029194,自行车,主城,仙境路羊山湖公园,"Xianjing Lu,Yangshanhu Park"
+3010,413100029209,自行车,主城,羊山公园站,Yangshangongyuan Station
+3010,413100029324,自行车,江北,地铁凤凰公园站4号口,Fenghuangshan Park Metro Exit 4
+3010,413100029352,自行车,江北,龙湖1号,Longhu No.1
+3010,413100029395,自行车,主城,宁夏路西康路口,Xikanglu Intersection of Ningxialu
+3010,413100029399,自行车,主城,虎踞变电站,Huju Substation
+3010,413100029416,自行车,主城,大方国际家居,Dafang International Home Furniture
+3010,413100029418,自行车,主城,金川国际科园东,East Jinchuan International Science Park
+3010,413100029419,自行车,主城,白马公园南广场,South Square of Baima Park
+3010,413100029420,自行车,主城,地铁红山动物园北,North Hongshan Zoo Metro Station
+3010,413100029445,自行车,主城,名城华贵园北,North Mingcheng Huaguiyuan
+3010,413100029447,自行车,主城,模范路科技创新街区,Mofanlu Technology Innovation Block
+3010,413100029464,自行车,主城,西康宾馆,Xikang Hotel
+3010,413100029466,自行车,主城,古平岗回龙桥,Gupinggang Huilongqiao
+3010,413100029486,自行车,主城,玉桥市场,Yuqiao Market
+3010,413100029495,自行车,主城,虎踞北路察哈尔路,Hujubeilu Chaharlu
+3010,413100029502,自行车,主城,圣淘沙花城,Shengtaosha Huacheng
+3010,413100030012,自行车,主城,栖园,Qiyuan
+3010,413100030071,自行车,主城,雨花东路南京宁星,Yuhuadonglu Nanjing Ningxing
+3010,413100030080,自行车,主城,香悦澜山南门,South Gate of Xiangyue Lanshan
+3010,413100030083,自行车,主城,经天路地铁,Jingtianlu Metro
+3010,413100030110,自行车,主城,建初寺西,West Jianchu Temple
+3010,413100030143,自行车,主城,璇子巷59号,Xuanzixiang No.59
+3010,413100030177,自行车,主城,察哈尔路67号,Chaharlu No.67
+3010,413100030216,自行车,主城,八卦洲小城镇,Baguazhou Xiaochengzhen
+3010,413100030228,自行车,主城,八卦洲城镇东,East Baguazhou Chengzhen
+3010,413100030262,自行车,主城,安乐村北门,North Gate of Anlecun
+3010,413100030304,自行车,江北,城西路地铁基地,Chengxilu Metro Base
+3010,413100045454,自行车,江宁,明发广场,Mingfaguangchang
+3010,413100045487,自行车,江宁,河定桥地铁站西,West Hedingqiao Metro Station
+3010,413100045525,自行车,江宁,双龙大道地铁站,Shuanglongdadao Metro Station
+3010,413100045531,自行车,江宁,双龙大道地铁站2,Shuanglongdadao Metro Station 2
+3010,413100046357,自行车,江宁,河海大学,Hohai University
+3010,413100200239,自行车,溧水,石湫政府,Shiqiu Government
+3010,413100202140,自行车,溧水,石湫轻轨站,Shiqiu Light Rail Station
+3010,413100400354,自行车,主城,张府园地铁2号口,Zhangfuyuan Metro Exit 2
+3010,413100400375,自行车,主城,米兰假日大酒店,Milan Holiday Hotel
+3010,413100400390,自行车,主城,金盛家居,Jinsheng Home Furnishing
+3010,413100400424,自行车,主城,小市地铁2号口,Xiaoshi Metro Exit 2
+3010,413100400447,自行车,江北,江佑铂庭,Jiangyou Boting
+3010,413100400448,自行车,江北,江浦四中,Jiangpu No.4 Middle School
+3010,413100400449,自行车,江北,万汇城东,East Wanhuicheng
+3010,413100400473,自行车,江北,环龙池路,Huanlongchilu
+3010,413100400479,自行车,江北,金年车站,Jinnian Station
+3010,413100400483,自行车,江北,顶山都市产业园,Dingshan Urban Industrial Park
+3010,413100400495,自行车,江北,区政府,Luhe District Government
+3010,413100400507,自行车,江北,江北大道,Jiangbeidadao
+3010,413100400510,自行车,江北,天润城七街区,7th Block of Tianruncheng
+3010,413100400521,自行车,江北,凤凰山公园地铁3号口,Fenghuangshan Park Metro Exit 3
+3010,413100400529,自行车,江北,江浦三中,Jiangpu No.3 Middle School
+3010,413100400531,自行车,江北,江浦二中,Jiangpu No.2 Middle School
+3010,413100400533,自行车,江北,林散之纪念馆,Lin Sanzhi Memorial Hall
+3010,413100400534,自行车,江北,象山花园,Xiangshan Huayuan
+3010,413100400535,自行车,江北,浦口交通局,Pukou Transportation Bureau
+3010,413100400536,自行车,江北,文德路3号口,Wendelu Metro Exit 3
+3010,413100400537,自行车,江北,文德路2号口,Wendelu Metro Exit 2
+3010,413100400538,自行车,江北,文德路1号口,Wendelu Metro Exit 1
+3010,413100400540,自行车,江北,龙华路4号口,Longhualu Metro Exit 4
+3010,413100400542,自行车,江北,龙华路3号口,Longhualu Metro Exit 3
+3010,413100400543,自行车,江北,柳洲东路总站,Liuzhoudonglu Terminal
+3010,413100400544,自行车,江北,柳洲东路地铁站1号口,Liuzhoudonglu Metro Exit 1
+3010,413100400583,自行车,江北,土储中心,Land Reserve Center
+3010,413100400602,自行车,江北,天润城十六街区,16th Block of Tianruncheng
+3010,413100400608,自行车,江北,天润城十一街区西,West 11th Block of Tianruncheng
+3010,413100400610,自行车,江北,天润城地铁站2号口,Tianruncheng Metro Exit 2
+3010,413100400611,自行车,江北,天润养老院,Tianrun Nursing Home
+3010,413100400612,自行车,江北,七里桥,Qiliqiao Bridge
+3010,413100400613,自行车,江北,天润城二街区,2nd Block of Tianruncheng
+3010,413100400615,自行车,江北,天润城地铁站3号口,Tianruncheng Metro Exit 3
+3010,413100400626,自行车,江北,市民中心,Civic Center
+3010,413100400633,自行车,江北,天润城一街区,1st Block of Tianruncheng
+3010,413100400635,自行车,江北,柳洲东路地铁站3号口,Liuzhoudonglu Metro Exit 3
+3010,413100401525,自行车,主城,名城世家,Mingcheng Shijia
+3010,413100409778,自行车,主城,中医药大学南,South Nanjing University of TCM
+3010,413100409829,自行车,主城,琥珀花园南,South Hupo Huayuan
+3010,413100409832,自行车,主城,中华门地铁站南,South Zhonghuamen Metro Station
+3010,413100410281,自行车,主城,模范马路香格里拉,Mofanmalu Shangri-La
+3010,413100410318,自行车,江北,龙湖御景,Longhu Yujing
+3010,413100410332,自行车,主城,保利紫荆公馆北门,North Gate of Baoli Zijing Gongguan
+3010,413100410371,自行车,江北,明发城市广场,Mingfa City Plaza
+3010,413100410374,自行车,江北,天润城五街区,5th Block of Tianruncheng
+3010,413100410395,自行车,江北,融创臻园,Rongchuang Zhenyuan
+3010,413100410402,自行车,江北,泰隆集团,Tailong Group
+3010,413100410407,自行车,江北,明发云庭广场,Mingfa Yunting Market
+3010,413100410416,自行车,主城,血液中心办公楼,Blood Center Office Building
+3010,413100410421,自行车,江北,万锦熙岸西,West Wanjin Xi'an
+3010,413100410435,自行车,江北,天润城十二街区,12th Block of Tianruncheng
+3010,413100410438,自行车,江北,天润城十六街区南,South 16th Block of Tianruncheng
+3010,413100410442,自行车,江北,天润城九街区南,South of 9th Block of Tianruncheng
+3010,413100410447,自行车,江北,农大浦口校区,NJAU Pukou Campus
+3010,413100410449,自行车,江北,江城人家,Jiangcheng Renjia
+3010,413100410455,自行车,江北,新河社区,Xinhe Community
+3010,413100410459,自行车,江北,警官学院,Police Institute
+3010,413100411397,自行车,主城,南京市第十三中学,Nanjing No.13 Middle School
+3010,413100411563,自行车,主城,空司南,South Air Force Command
+3010,413100411568,自行车,主城,市政府,Nanjing City Hall
+3010,413100411586,自行车,主城,下马坊地铁口,Xiamafang Metro Exit
+3010,413100411667,自行车,主城,金蕊家苑,Jinrui Jiayuan
+3010,413100411671,自行车,主城,时光澔韵,Shiguang Haoyun
+3010,413100411681,自行车,主城,小行地铁站南,South Xiaohang Metro Station
+3010,413100411684,自行车,主城,摩卡庄园,Moka Zhuangyuan
+3010,413100411687,自行车,主城,爱涛逸珍公馆南,South Aitao Yizhen Gongguan
+3010,413100411689,自行车,主城,卡子门地铁站,Kazimen Metro Station
+3010,413100411693,自行车,主城,雨花烈士陵园北门,North Gate of Yuhua Martyrs Cemetery
+3010,413100411694,自行车,主城,博悦澜庭,Boyue Lanting
+3010,413100411737,自行车,主城,雨花烈士陵园南门,South Gate of Yuhua Martyrs Cemetery
+3010,413100411738,自行车,主城,邓府山,Dengfushan
+3010,413100411742,自行车,主城,雨花区政府北门,North Gate of Yuhua District Government
+3010,413100411746,自行车,主城,明发广场东,East Mingfaguangchang
+3010,413100411803,自行车,主城,江南名府北门,North Gate of Jiangnan Mingfu
+3010,413100411815,自行车,主城,国资大厦,Guozi Building
+3010,413100411821,自行车,主城,莫愁花园南门,South Gate of Mochou Garden
+3010,413100411825,自行车,主城,中兴人才公寓,ZTE Talent Apartment
+3010,413100411827,自行车,主城,花神科技园,Huashen Science and Technology Park
+3010,413100411834,自行车,主城,紫荆广场,Zijing Plaza
+3010,413100411839,自行车,主城,软件大道地铁站,Ruanjiandadao Metro Station
+3010,413100411844,自行车,主城,南京科技馆北,North Nanjing Science and Technology Museum
+3010,413100411908,自行车,主城,解放路北,North Jiefanglu
+3010,413100411917,自行车,主城,大桥南路八巷,Daqiaonanlu Baxiang
+3010,413100411984,自行车,主城,高楼门53号,Gaoloumen No.53
+3010,413100411990,自行车,主城,天津新村1号门,Gate No.1 of Tianjin Xincun
+3010,413100411994,自行车,主城,玉兰丁墙路口,Dingqianglu Intersection Yulanlu
+3010,413100411995,自行车,主城,大明路地铁1号口,Daminglu Metro Exit 1
+3010,413100411997,自行车,主城,玄武门地铁4号口,Xuanwumen Metro Exit 4
+3010,413100412003,自行车,主城,省电视台,Jiangsu TV Station
+3010,413100412008,自行车,主城,情侣园东门,East Gate of Qinglvyuan
+3010,413100412010,自行车,主城,市第一医院西,West Nanjing First Hospital
+3010,413100412011,自行车,主城,三山街地铁4号口,Sanshanjie Metro Exit 4
+3010,413100412020,自行车,主城,江南大酒店,Jiangnan Hotel
+3010,413100412049,自行车,主城,龙蟠路太阳宫,Longpanlu Sun Palace
+3010,413100415062,自行车,江北,智鼎源大门,Zhidingyuan Gate
+3010,413100415063,自行车,江北,海科新寓二期,Haike Xinyu Phase 2
+3010,413100415105,自行车,江宁,南站南广场,South Square of South Railway Station
+3010,413100415171,自行车,江宁,麦德龙,METRO Store
+3010,413100415217,自行车,江北,金地格林格林,Jindi Gelin Gelin
+3010,413100415219,自行车,江北,力标四季嘉园,Libiao Siji Jiayuan
+3010,413100415462,自行车,主城,南京长江科技园,Nanjing Changjiang Science and Technology Park
+3010,413100415519,自行车,主城,新金茂花园南,South Xinjinmao Huayuan
+3010,413100415523,自行车,主城,金茂花园西,West Jinmao Huayuan
+3010,413100415582,自行车,主城,疾病预防控制中心,Centers for Disease Control and Prevention
+3010,413100415597,自行车,主城,红十字血液中心,Red Cross Blood Center
+3010,413100425584,自行车,江宁,江宁高铁站,Jiangning High-speed Railway Station
+3010,413100427013,自行车,江宁,景明佳园,Jingming Jiayuan
+3010,413100427018,自行车,江宁,机场S1佛城路1,"Airport Line S1,Fochenglu 1"
+3010,413100430551,自行车,江宁,同夏路东山总站,"Tongxialu,Dongshan Terminal"
+3010,413100609843,自行车,主城,佳日雅苑西,West Jiari Yayuan
+3010,413100610175,自行车,主城,行政服务大厅,Administrative Service Hall
+3010,413100610198,自行车,主城,栖园东门,East Gate of Qiyuan
+3010,413100610220,自行车,主城,元通4号出口,Yuantong Metro Exit 4
+3010,413100610246,自行车,主城,中山俊景,Zhongshan Junjing
+3010,413100610252,自行车,主城,挹江门东,East Yijiang Gate
+3010,413100610274,自行车,主城,摄山路,Sheshanlu
+3010,413100610283,自行车,主城,大桥南路家乐福店,Daqiaonanlu Carrefour Store
+3010,413100610287,自行车,主城,集庆路仙鹤街路口,Xianhejie Intersection of Jiqinglu
+3010,413100610319,自行车,主城,江南大厦,Jiangnan Building
+3010,413100610325,自行车,主城,阅江广场,Yuejiang Plaza
+3010,413100610367,自行车,主城,黑龙江路东,East Heilongjianglu
+3010,413100610376,自行车,主城,燕子矶公园,Yanziji Park
+3010,413100610425,自行车,主城,南京铁路办事处,Nanjing Railway Office
+3010,413100610460,自行车,主城,鼓楼地铁1号口,Gulou Metro Exit 1
+3010,413100610494,自行车,主城,建宁路麦当劳,Jianninglu McDonald's
+3010,413100610512,自行车,主城,建宁路义民路口,Yiminlu Intersection of Jianninglu
+3010,413100610517,自行车,主城,双门楼宾馆,Shuangmenlou Hotel
+3010,413100610518,自行车,主城,河图文化广场,Hetu Cultural Plaza
+3010,413100610537,自行车,主城,马群地铁1号口,Maqun Metro Exit 1
+3010,413100610755,自行车,主城,上福花园军师巷,Shangfu Huayuan Junshixiang
+3010,413100610760,自行车,主城,汉中门4口,Hanzhongmen Metro Exit 4
+3010,413100610766,自行车,主城,集庆门东,East Jiqingmen
+3010,413100610777,自行车,主城,市第一医院北门,North Gate of Nanjing First Hospital
+3010,413100610805,自行车,主城,马鞍山食堂,Ma'anshan Dining Hall
+3010,413100610811,自行车,主城,皇册花园晶华,Huangce Huayuan Jinghua
+3010,413100610815,自行车,主城,三山街地铁2号口,Sanshanjie Metro Exit 2
+3010,413100610819,自行车,主城,凤巢文化产业园,Fengchao Cultural Industry Park
+3010,413100610824,自行车,主城,大明路地铁4号口,Daminglu Metro Exit 4
+3010,413100610835,自行车,主城,西安门地铁1号口,Xi'anmen Metro Exit 1
+3010,413100612575,自行车,主城,梦都大街南京银行,"Mengdudajie,Nanjing Bank"
+3010,413100612614,自行车,主城,江心洲地铁1号口,Jiangxinzhou Metro Exit 1
+3010,413100612633,自行车,江北,瑞景国际,Ruijing International
+3010,413100612736,自行车,江北,龙池翠洲,Longchi Cuizhou
+3010,413100612739,自行车,江北,璟湖国际,Jinghu International
+3010,413100613343,自行车,主城,宜家家居广场东,East IKEA Plaza
+3010,413100613403,自行车,主城,大报恩寺遗址公园,Great Bao'en Temple Heritage Park
+3010,413100613416,自行车,主城,武定门地铁3号口,Wudingmen Metro Exit 3
+3010,413100613451,自行车,主城,地铁羊山公园,Yangshangongyuan Metro Station
+3010,413100613465,自行车,主城,仙鹤门地铁站,Xianhemen Metro Station
+3010,413100613470,自行车,主城,保利罗来,Baoli Luolai
+3010,413100613481,自行车,主城,地铁南大仙林站,NJU Xianlin Campus Metro Station
+3010,413100613528,自行车,主城,虎踞关小区,Hujuguan Community
+3010,413100613531,自行车,主城,河海大学东门,East Gate of Hohai University
+3010,413100613949,自行车,主城,鸡鸣寺,Jiming Temple
+3010,413100613951,自行车,主城,金卡大厦,Jinka Building
+3010,413100613956,自行车,主城,傅厚岗7号,Fuhougang No.7
+3010,413100613965,自行车,主城,鼓楼广场电信局西,West Gulou Square Telecommunications Bureau
+3010,413100613977,自行车,主城,城建集团,Nanjing Urban Construction Group
+3010,413100614046,自行车,主城,宁栖路邮政储蓄,"Ningqilu,Postal Savings Bank"
+3010,413100614099,自行车,主城,仙林湖地铁站外,Outside Xianlinhu Metro Station
+3010,413100623968,自行车,江宁,青年城北门,North Gate of Qingniancheng
+3010,413100625446,自行车,江宁,机场S1佛城路2,"Airport Line S1,Fochenglu 2"
+3010,413100686467,自行车,江北,南京国际健康城,Nanjing International Health City
+3010,413100688703,自行车,江北,浦口国资,Pukou SASAC
+3010,413100688706,自行车,江北,雨泉家园,Yuquan Jiayuan
+3010,413100688730,自行车,江北,润泰花园东,East Runtai Huayuan
+3010,413100688733,自行车,江北,天润城十六街区北,North 16th Block of Tianruncheng
