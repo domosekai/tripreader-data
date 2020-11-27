@@ -24,6 +24,7 @@
 
 Date | Change | Author
 -----|--------|-------
-2020.4-9 | 自行车 | Rayista
+2020.11 | 自行车 | Rayista、Ichinose Arisu
+2020.4-10 | 自行车 | Rayista
 2020.2 | 公交 | 虹羽
 2020.1 | Initial | domosekai、yuki
