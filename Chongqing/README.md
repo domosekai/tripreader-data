@@ -1,4 +1,4 @@
-# 常州市 Changzhou
+# 重庆市 Chongqing
 
 ## 数据 Data
 
@@ -14,9 +14,11 @@
 
 ## 备注 Remark
 
+空港线线路号可能不正确
+
 ## Changelog
 
 Date | Change | Author
 -----|--------|-------
-2021.6 | 2号线 | RisingTank、冰糖炖雪梨咕咕咕
-2020.2 | Initial | Rayista
+2021.8 | 璧山云巴 | 小东
+2021.2 | Initial | 小东

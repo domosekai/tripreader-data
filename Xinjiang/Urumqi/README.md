@@ -1,4 +1,4 @@
-# 常州市 Changzhou
+# 乌鲁木齐市 Urumqi
 
 ## 数据 Data
 
@@ -18,5 +18,4 @@
 
 Date | Change | Author
 -----|--------|-------
-2021.6 | 2号线 | RisingTank、冰糖炖雪梨咕咕咕
-2020.2 | Initial | Rayista
+2021.6 | 1号线 | 千里兰新路
