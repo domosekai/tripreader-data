@@ -8,20 +8,25 @@ CU识别方式：18文件，终端号
 
 TU识别方式：1E文件，线路和站点
 
-数据文件：metro-tu.csv, metro-cu.csv
+数据文件：metro-tu.csv, cu.csv
 
 ### 公交
 
 识别方式：1E文件，线路和站点前4位，10进制，汉字线路查表
 
-数据文件：bus-tu.csv
+数据文件：bus-tu.csv, brt-tu.csv
 
 ## 备注 Remark
+
+早期（2017年以前）存在公交终端编号与地铁重复的情况。
 
 ## Changelog
 
 Date | Change | Author
 -----|--------|-------
+2021.12 | 14、18号线 | 兰Love新一
+2021.9-12 | 汉字线路 | 兰Love新一、xiaowu、Summer、大象
+2021.9 | 其他消费领域 | Summer
 2021.2-8 | 汉字线路 | 众多贡献者
 2021.1 | 15号线 | 兰Love新一
 2020.12 | 磁浮线TU，18号线 | 兰Love新一
