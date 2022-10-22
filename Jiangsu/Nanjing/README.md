@@ -24,6 +24,8 @@
 
 Date | Change | Author
 -----|--------|-------
+2022.10 | S8南延线 | RisingTank
+2022.8-9 | 自行车 | Rayista、大象
 2021.12 | 2号线西延、S6线 | RisingTank
 2021.1-12 | 自行车 | Rayista
 2020.12 | 自行车 | Rayista

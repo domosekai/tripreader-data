@@ -20,4 +20,5 @@ TU识别方式：18文件，终端号
 
 Date | Change | Author
 -----|--------|-------
+2022.3-6 | 地铁补充 | 大象、wchjia、Summer、Oreki、YuanXun、唐山小四
 2020.9 | Initial | domosekai、yuki
